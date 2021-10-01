@@ -160,7 +160,19 @@ i:hover {
     width: 50%;
     text-align: center;
   }
-  #title {
+
+  .image-header {
     text-align: center;
+  }
+
+  .testimonial-text {
+    font-size: 1.5rem;
+  }
+  .price-text {
+    font-size: 1.5rem;
+  }
+
+  .section-heading {
+    font-size: 2.5rem;
   }
 }
